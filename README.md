@@ -6,7 +6,6 @@ This application will allow you to search users on GitHub and see projects assoc
 - [Deployment Link](#Deployment)
 - [Technologies Used](#Technologies)
 - [Screenshot](#Screenshot)
-- [Aknowledgements](#Help)
 - [Contact](#Contact)
 
 
@@ -23,6 +22,5 @@ This application will allow you to search users on GitHub and see projects assoc
 <img src= ./assets/images/readme.png>
 
 ## Contact
- ## Contact
 
  * Please contact me [here](mailto:alexjrunning@gmail.com) if you have any questions!
